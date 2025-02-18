@@ -4,57 +4,66 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
+**最終更新日**  
+2025/02/19
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+（以下、「当社」といいます。）は、本アプリ（以下、「本サービス」といいます。）におけるユーザーの情報の取扱いについて、以下のとおりプライバシーポリシー（以下、「本ポリシー」といいます。）を定めます。
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+## 第1条（定義）
 
-<br>
+1. 本サービスは、ユーザーの姓名、住所、電話番号等の個人情報（登録型の個人情報）は一切取得いたしません。  
+2. 本アプリでは、Google Admobなどのサードパーティサービスを通じ、利用時に自動的に以下の各種データ（以下「利用データ」といいます。）を取得する場合があります。  
+   - **デバイスID**  
+   - **おおよその位置情報**（国・地域・都市レベル等）  
+   - **アプリ内での操作履歴および広告の表示・クリック情報**  
+   - **クラッシュレポート**（エラー発生時の情報）  
+   - **パフォーマンスデータ**（アプリの利用状況、動作状況等）
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## 第2条（情報の収集方法）
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+1. 当社は、本サービス利用時に上記の利用データを自動的に取得します。これらのデータは、ユーザーが特定されるための情報ではなく、匿名性を有する形で扱われます。  
+2. なお、これらの収集はGoogle Admob等の外部サービスを通じて実施され、その際、各サービス提供会社（例：Google社）のプライバシーポリシー（[https://policies.google.com/privacy](https://policies.google.com/privacy)）に基づき取り扱われます。
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+## 第3条（情報の利用目的）
 
-<br>
+当社が取得する利用データの利用目的は、以下の通りです。
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+1. 本サービスの提供、運営および改善のため  
+2. アプリの安定稼働やエラー検知、クラッシュデータの解析による品質向上のため  
+3. 広告のパーソナライズおよびマーケティング分析、ならびに広告効果の測定のため（Googleなどの提携先が行う目的を含む）  
+4. 上記各目的に付随する目的
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+## 第4条（利用目的の変更）
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+当社は、利用目的が変更前と合理的な関連性を有すると判断する場合に限り、利用データの利用目的を変更することがあります。変更後の目的については、本アプリ内に掲載するか、その他適切な方法でユーザーに通知します。
 
-<br>
+## 第5条（第三者提供および外部サービス連携）
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+1. 当社は、法律に定める場合、またはユーザーの生命・身体などの保護が必要な場合を除き、利用データを第三者に提供することはありません。  
+2. 本サービスでは、Google Admobなどのサードパーティサービスを利用しています。これにより取得される利用データは、Google社などの各サービス提供会社へ送信され、各社のプライバシーポリシーに基づいて取り扱われます。ユーザーは、各社のプライバシーポリシー（例：Google社：[https://policies.google.com/privacy](https://policies.google.com/privacy)）をご確認ください。  
+3. 当社は、本サービスの運営に必要な範囲内で、業務委託先へ利用データの取扱いを委託する場合があります。
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+## 第6条（情報の開示）
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+1. ユーザーから利用データの開示に関する問い合わせがあった場合、当社は合理的な範囲で対応いたします。ただし、利用データは統計的または匿名化された状態で管理されているため、個別のデータの開示対象とならないことがあります。  
+2. 必要に応じ、所定の手数料を申し受ける場合があります。
 
-<br>
+## 第7条（情報の訂正および削除）
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+1. 本サービスでは個人を特定するための情報を登録しておりませんが、万が一、利用データに関する内容で訂正または削除のご要望がある場合には、当社所定の手続きにより対応を検討いたします。  
+2. 対応の結果については、遅滞なくユーザーに通知いたします。
 
-<br>
+## 第8条（利用停止等）
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+1. ユーザーは、収集された利用データが本来の利用目的を逸脱して扱われていると感じた場合、利用停止または削除の請求を行うことができます。  
+2. 当社は、請求内容に基づき状況を調査し、必要な対応を講じます。なお、技術的な制約等により直ちに対応できない場合は、代替措置を講じることがあります。
+
+## 第9条（プライバシーポリシーの変更）
+
+1. 本ポリシーは、法令の改正や業務内容の変更等があった場合、ユーザーへの事前通知なく変更されることがあります。変更後のポリシーは、本アプリ内に掲載された時点から効力を生じます。  
+2. ユーザーは、本サービスの利用をもって変更内容に同意したものとみなされます。
+
+## 第10条（お問い合わせ窓口）
+
+本ポリシーに関するお問い合わせは、下記窓口までお願いいたします。
+https://x.com/nkwtnb
