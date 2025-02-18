@@ -11,7 +11,7 @@ presskit_download_link                    : https://emilbaehr.com               
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : ウタログ                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : カラオケの持ち歌・レパートリー管理アプリの決定版！持ち歌の最高得点、タグ付け、履歴まで管理可能！
 
@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Naoki Watanabe                                
+your_name                                 : @nkwtnb                                
 your_link                                 : https://nkwtnb.github.io/portfolio/                     
 your_city                                 : Japan                                
 email_address                             : 
