@@ -4,6 +4,9 @@ title: Privacy Policy
 include_in_header: false
 ---
 
+
+# プライバシーポリシー 
+
 **最終更新日**  
 2025/02/19
 
