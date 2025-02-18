@@ -1,7 +1,8 @@
 ---
 layout: page
-title: What's New
+title: Contact
 include_in_header: true
+url: https://x.com/nkwtnb
 ---
 
 # Changelog
