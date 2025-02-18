@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 include_in_header: true
-url: https://x.com/nkwtnb
+external_url: https://x.com/nkwtnb
 ---
 
 # Changelog
